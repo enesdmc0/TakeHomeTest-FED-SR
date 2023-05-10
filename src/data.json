@@ -1,0 +1,92 @@
+{
+  "data" :[
+  {
+    "id": 1,
+    "category": "promotions",
+    "name": "Etsy",
+    "text": "Dress in technicolor",
+    "desc": "s simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "date": "May4"
+  },
+  {
+    "id": 2,
+    "category": "promotions",
+    "name": "Etsy",
+    "text": "Jewelry with a story",
+    "desc": "-Well crafted tyle that's very vibrant. orem Ipsum has been the industry's standard dummy text ever s",
+    "date": "May4"
+  },
+  {
+    "id": 3,
+    "category": "promotions",
+    "name": "Etsy",
+    "text": "Booked your trip?",
+    "desc": "-Well crafted tyle that's very vibrant. orem Ipsum has been the industry's standard dummy text ever s",
+    "date": "May4"
+  },
+  {
+    "id": 4,
+    "category": "promotions",
+    "name": "Etsy",
+    "text": "Opt out of Father's Day emails",
+    "desc": "-Well crafted tyle that's very vibrant. orem Ipsum has been the industry's standard dummy text ever s",
+    "date": "May4"
+  },
+  {
+    "id": 5,
+    "category": "promotions",
+    "name": "Etsy",
+    "text": "Dress in technicolor",
+    "desc": "-Well crafted tyle that's very vibrant. has been the industry's standard",
+    "date": "May4"
+  },
+  {
+    "id": 6,
+    "category": "promotions",
+    "name": "Etsy",
+    "text": "Booked your trip?",
+    "desc": "-Well crafted tyle that's very vibrant.  has been the industry's standard",
+    "date": "May4"
+  },
+  {
+    "id": 7,
+    "category": "promotions",
+    "name": "Etsy",
+    "text": "Dress in technicolor",
+    "desc": "-Well crafted tyle that's very vibrant.  has been the industry's standard",
+    "date": "May4"
+  },
+  {
+    "id": 8,
+    "category": "promotions",
+    "name": "Etsy",
+    "text": "Jewelry with a story",
+    "desc": "-Well crafted tyle that's very vibrant.  has been the industry's standard",
+    "date": "May4"
+  },
+  {
+    "id": 9,
+    "category": "social",
+    "name": "Twitter",
+    "text": "Opt out of Father's Day emails",
+    "desc": "-Well crafted ty vibrant.  has been the industry's standard",
+    "date": "May4"
+  },
+  {
+    "id": 10,
+    "category": "social",
+    "name": "Twitter",
+    "text": "Dress in technicolor",
+    "desc": "-Well crafted tyle that's very vibrant.'s very vibrant.  has been the industry's standard",
+    "date": "May4"
+  },
+  {
+    "id": 11,
+    "category": "social",
+    "name": "Twitter",
+    "text": "Jewelry with a story",
+    "desc": "-Well crafted tyle that's very vibrant.'s very vibrant.  has been the industry's standard",
+    "date": "May4"
+  }
+]
+}
